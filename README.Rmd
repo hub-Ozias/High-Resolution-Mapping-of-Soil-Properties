@@ -1,13 +1,7 @@
----
-title: "High Resolution Mapping of Soil Properties"
-author: "Ozias Hounkpatin"
-date: "2025-04-25"
-output: html_document
----
 
 # Introduction
 
-Six soil properties- sand, silt, clay, cation exchange capacity, soil organic carbon, nitrogen were predicted using remote sensing data in the Dano Catchment (West Africa, Burkina Faso) and machine learning models. The example R code is in support  of the article entitled: "High resolution mapping of soil properties using remote sensing variables in south-western Burkina Faso: a comparison of machine learning and multiple linear regression models".
+Six soil properties- sand, silt, clay, cation exchange capacity, soil organic carbon, nitrogen were predicted using remote sensing data and machine learning models in the Dano Catchment (West Africa, Burkina Faso). The provided R code is in support  of the article entitled: "High resolution mapping of soil properties using remote sensing variables in south-western Burkina Faso: a comparison of machine learning and multiple linear regression models".
 
 Forkuor, G., Hounkpatin, O.K., Welp, G. and Thiel, M., 2017. High resolution mapping of soil properties using remote sensing variables in south-western Burkina Faso: a comparison of machine learning and multiple linear regression models. PloS one, 12(1), p.e0170478.
 
